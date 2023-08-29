@@ -4,4 +4,5 @@
 
 ## Done
 
-1. Median of Two Sorted Arrays in log(n+m)
+1. [Median of Two Sorted Arrays in log(n+m)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+2. [Minimum penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
