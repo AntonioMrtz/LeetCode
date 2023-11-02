@@ -19,10 +19,5 @@ def countBits(n: int) -> list:
     return res
 
 
-
-
-
-
-
 print(countBits(2))
 print(countBits(5))

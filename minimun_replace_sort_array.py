@@ -41,24 +41,22 @@
     return replacements """
 
 
-
 def minimumReplacement(nums: list) -> int:
 
     replacements = 0
-    
-    for i in range(len(nums)-2,-1,-1):
-        if nums[i]>nums[i+1]:
-                
+
+    for i in range(len(nums)-2, -1, -1):
+        if nums[i] > nums[i+1]:
+
             nums_elements = (nums[i] + nums[i + 1] - 1) // nums[i + 1]
 
-            replacements+=(nums_elements-1)
+            replacements += (nums_elements-1)
             nums[i] = nums[i] // nums_elements
             print(nums[i])
 
     return int(replacements)
 
 
-
 """ print(minimumReplacement([3,9,3]))
 print(minimumReplacement([1,2,3,4,5])) """
-print(minimumReplacement([2,10,20,19,1]))
+print(minimumReplacement([2, 10, 20, 19, 1]))
