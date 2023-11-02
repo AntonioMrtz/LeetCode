@@ -11,4 +11,4 @@
 5. [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)
 6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 7. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
-8. []()
+8. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/?envType=daily-question&envId=2023-11-02)
