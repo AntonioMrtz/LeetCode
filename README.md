@@ -12,3 +12,4 @@
 6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 7. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 8. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/?envType=daily-question&envId=2023-11-02)
+9. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/?envType=daily-question&envId=2023-11-02)
